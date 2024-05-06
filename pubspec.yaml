@@ -23,6 +23,7 @@ dependencies:
   get_storage: 2.1.1
   flutter_widget_from_html_core: 0.14.12
   cached_network_image: 3.3.1
+  lottie: 3.1.0
 
 dev_dependencies:
   change_app_package_name: 1.1.0
